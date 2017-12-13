@@ -1,0 +1,32 @@
+skin/adminhtml/default/default/creativestyle/images/*                       skin/adminhtml/default/default/creativestyle/images
+skin/adminhtml/default/default/creativestyle/css/*                          skin/adminhtml/default/default/creativestyle/css
+skin/frontend/base/default/creativestyle/css/*                              skin/frontend/base/default/creativestyle/css
+skin/frontend/base/default/creativestyle/images/*                               skin/frontend/base/default/creativestyle/images/
+skin/frontend/rwd/default/creativestyle/images/*                            skin/frontend/rwd/default/creativestyle/images
+skin/frontend/rwd/default/creativestyle/css/*                               skin/frontend/rwd/default/creativestyle/css
+lib/OffAmazonPayments                                                       lib/OffAmazonPayments
+lib/OffAmazonPaymentsNotifications                                          lib/OffAmazonPaymentsNotifications
+lib/OffAmazonPaymentsService                                                lib/OffAmazonPaymentsService
+js/creativestyle/adminhtml/amazonpayments.min.js                            js/creativestyle/adminhtml/amazonpayments.min.js
+js/creativestyle/vendors/prism.js                                           js/creativestyle/vendors/prism.js
+js/creativestyle/amazonpayments.min.js                                      js/creativestyle/amazonpayments.min.js
+js/creativestyle/amazonpayments.toolbox.min.js                              js/creativestyle/amazonpayments.toolbox.min.js
+app/code/community/Creativestyle/AmazonPayments                             app/code/community/Creativestyle/AmazonPayments
+app/design/adminhtml/default/default/layout/amazonpayments.xml              app/design/adminhtml/default/default/layout/amazonpayments.xml
+app/design/adminhtml/default/default/template/creativestyle/amazonpayments  app/design/adminhtml/default/default/template/creativestyle/amazonpayments
+app/locale/en_US/template/email/amazon_payments_failed.html                            en_US/template/email/amazon_payments_failed.html
+app/locale/en_US/Creativestyle_AmazonPayments.csv                                      en_US/Creativestyle_AmazonPayments.csv
+app/locale/it_IT/template/email/amazon_payments_failed.html                            it_IT/template/email/amazon_payments_failed.html
+app/locale/it_IT/Creativestyle_AmazonPayments.csv                                      it_IT/Creativestyle_AmazonPayments.csv
+app/locale/en_GB/template/email/amazon_payments_failed.html                            en_GB/template/email/amazon_payments_failed.html
+app/locale/en_GB/Creativestyle_AmazonPayments.csv                                      en_GB/Creativestyle_AmazonPayments.csv
+app/locale/es_ES/template/email/amazon_payments_failed.html                            es_ES/template/email/amazon_payments_failed.html
+app/locale/es_ES/Creativestyle_AmazonPayments.csv                                      es_ES/Creativestyle_AmazonPayments.csv
+app/locale/fr_FR/template/email/amazon_payments_failed.html                            fr_FR/template/email/amazon_payments_failed.html
+app/locale/fr_FR/Creativestyle_AmazonPayments.csv                                      fr_FR/Creativestyle_AmazonPayments.csv
+app/locale/de_DE/template/email/amazon_payments_failed.html                            de_DE/template/email/amazon_payments_failed.html
+app/locale/de_DE/Creativestyle_AmazonPayments.csv                                      de_DE/Creativestyle_AmazonPayments.csv
+
+
+
+app/etc/modules/Creativestyle_AmazonPayments.xml                            app/etc/modules/Creativestyle_AmazonPayments.xml
